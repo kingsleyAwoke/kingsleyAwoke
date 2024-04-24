@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kingsley_awoke" target="blank"><img src="https://img.shields.io/twitter/follow/kingsley_awoke?logo=twitter&style=for-the-badge" alt="kingsley_awoke" /></a> </p>
 
-- 🌱 I’m currently working on my **Web Trend Agency** using Django.
+- 🌱 I’m currently working on **Web Trend Agency** using Django.
 
 - 👨‍💻 All of my projects are available at [https://github.com/kingsleyAwoke](https://github.com/kingsleyAwoke)
 
