@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Web Development.**
 
-- 📫 How to reach me **awokekingsley00@gmail.com**
+- 📫 How to reach me **Kingsley_business@proton.me**
 
 - ⚡ Fun fact **"Looking at code you wrote more than two weeks ago is like looking at code you seeing for the first time."**
 
