@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/kingsley_awoke" target="blank"><img src="https://img.shields.io/twitter/follow/kingsley_awoke?logo=twitter&style=for-the-badge" alt="kingsley_awoke" /></a> </p>
 
-- 🌱 I’m currently searching for work.
+- 🌱 I’m currently working on an innovativeproject.
 
 - 👨‍💻 All of my projects are available at [https://github.com/kingsleyAwoke](https://github.com/kingsleyAwoke)
 
 - 💬 Ask me about **Web Development.**
 
-- 📫 How to reach me **Kingsley_business@proton.me**
+- 📫 How to reach me **kingsley_business@proton.me**
 
 - ⚡ Fun fact **"Looking at code you wrote more than two weeks ago is like looking at code you seeing for the first time."**
 
